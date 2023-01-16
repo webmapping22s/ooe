@@ -20,7 +20,7 @@ Wikipedia zur Genauigkeit von WGS84: <https://wiki.openstreetmap.org/wiki/Precis
   * 5 Kommastellen für +/- 1m Genauigkeit
   * *persist layer metadata* für die Popup-Anzeige der Viertel-Namen
 
-[Template zur Visualisierung](https:/webmapping.github.io/templates/ooe.zip)
+[Template zur Visualisierung](https://webmapping22s.github.io/templates/ooe.zip)
 
 Javascript Code in `main.js`
 
